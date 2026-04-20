@@ -1,5 +1,5 @@
 # MRSmatlabTrees
-A modified version of MRSmatlab (https://github.com/mmpetke/MRSmatlab) that allows to evaluate PP SNMR measurments on Trees. It also utilizes the BLOCHUS package (https://github.com/ThoHiller/nmr-blochus). In order to calculate lookup tables for the prepolarization switch-off and for the pulse, a python 3 installation with the following packages is necessary: numpy,array,sys,os,json,multiprocess,functools,time and numbalsoda (https://github.com/Nicholaswogan/numbalsoda)
+A modified version of MRSmatlab (https://github.com/mmpetke/MRSmatlab) that allows to evaluate PP SNMR measurments on Trees. It also utilizes the BLOCHUS package (https://github.com/ThoHiller/nmr-blochus). In order to calculate lookup tables for the prepolarization switch-off and for the pulse, a python 3 installation with the following packages is necessary: numpy, array, sys, os, json, multiprocess, functools, time and numbalsoda (https://github.com/Nicholaswogan/numbalsoda)
 
 WARNING, this is an experimental version that has only be tested with one data set.
 
